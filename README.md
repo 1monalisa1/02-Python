@@ -1,2 +1,2 @@
-# python-homework
+# 02-python
 PyBank &amp; PyRamen
