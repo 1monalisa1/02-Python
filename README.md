@@ -1,2 +1,2 @@
-# 02-python
+# 02-Python
 PyBank &amp; PyRamen
